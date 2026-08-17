@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    printf("   **LEARN HOW TO CODE C PROGRAMMING LANGUAGE**    \n");
+    printf("\n");
+    printf("\n");
+    printf("---------------------------------------------------\n");
+    printf("|             WELCOME TO C PROGRAMMING            |\n");
+    printf("---------------------------------------------------\n");
+    printf("|                                                 |\n");
+    printf("|                   [1] LEARN                     |\n");
+    printf("|                   [2] CODE                      |\n");
+    printf("|                   [3] CREAT                     |\n");
+    printf("|                   [4] DEBUG                     |\n");
+    printf("|                                                 |\n");
+    printf("---------------------------------------------------\n");
+    
+
+    return 0;
+}
