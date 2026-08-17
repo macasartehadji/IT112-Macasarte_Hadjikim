@@ -5,7 +5,7 @@ int main() {
     printf("                 STUDENT PROFILE                   \n");
     printf("===================================================\n");
     printf("Name: Hadji Kim S. Macasarte                       \n");
-    printf("Course and Section: BSIT IT1R14                    \n");
+    printf("Course and Section: BSIT-IT1R14                    \n");
     printf("Year Level: 1st Year                               \n");
     printf("===================================================\n");
     printf("                FUTURE PROGRAMMER                  \n");
